@@ -1,0 +1,10 @@
+•	Developed user interface components using Angular framework to create an intuitive and responsive portal for Relationship Managers (RMs).
+•	Implemented functionalities allowing RMs to create, manage, and archive customer sessions effectively within the portal.
+•	Integrated backend APIs seamlessly to facilitate smooth communication between frontend and backend systems, ensuring real-time data updates.
+•	Designed and implemented a robust search functionality enabling RMs to easily locate specific customer sessions based on various parameters.
+•	Created a dynamic dashboard providing RMs with comprehensive insights into session metrics and key performance indicators.
+•	Added routes and implemented routing guards to ensure secure navigation and access control within the application.
+•	Implemented logout functionality to allow RMs to securely log out of their sessions, protecting sensitive information.
+•	Conducted thorough testing and collaborated with QA team members to ensure the reliability and performance of the application.
+•	Generated detailed documentation including user manuals and technical specifications to support knowledge transfer and onboarding.
+•	Actively participated in team meetings, code reviews, and brainstorming sessions to foster collaboration and alignment with project goals.
